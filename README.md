@@ -1,1 +1,1 @@
-# hash-benchmark
+# Hash Benchmark
